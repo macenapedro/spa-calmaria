@@ -97,7 +97,7 @@ header #home .img-home img {
 #nosso-espaco .detalhes .espaco-textos .separador {
   width: 100%;
 }
-#nosso-espaco .detalhes:nth-child(2) {
+#nosso-espaco .detalhes:nth-child(2n) {
   flex-direction: row-reverse;
 }
 
